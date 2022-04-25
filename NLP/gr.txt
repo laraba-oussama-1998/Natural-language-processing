@@ -1,0 +1,22 @@
+À_P la_DET suite_U de_P la_DET parution_NC le_DET matin_NC même_ADJ d'_P un_DET article_NC 2_ADJ =_V le_DET concernant_VPR dans_P le_DET quotidien_NC Libération_NPP ,_PONCT Christophe_NPP Hondelatte_NPP décide_V de_P ne_ADV pas_ADV présenter_VINF le_DET journal_NC de_P 13_DET h_NC 00_ADJ de_P France_NPP 2_ADJ ._PONCT
+Il_CLS est_V remplacé_VPP au_P+D pied_NC levé_VPP par_P Benoît_NPP Duquesne_NPP ._PONCT
+Dans_P l'_DET après-midi_NC ,_PONCT la_DET direction_NC de_P l'_DET information_NC de_P France_NPP 2_ADJ annonce_V que_CS Christophe_NPP Hondelatte_NPP est_V relevé_VPP de_P ses_DET fonctions_NC ._PONCT
+Christophe_NPP Hondelatte_NPP présentait_V le_DET journal_NC de_P la_DET mi_NC -_PONCT journée_NC de_P France_NPP 2_ADJ depuis_P le_DET 6_ADJ septembre_NC ._PONCT
+Il_CLS avait_V proposé_VPP à_P plusieurs_DET reprises_NC sa_DET démission_NC à_P Arlette_NPP Chabot_NPP ._PONCT
+Le_DET comédien_NC Jacques_NPP Villeret_NPP est_V mort_VPP à_P Évreux_NPP (_PONCT Eure_NPP )_PONCT des_P+D suites_NC d'_P une_DET hémorragie_NC interne_ADJ hépatique_ADJ ._PONCT
+Il_CLS était_V âgé_ADJ de_P 53_DET ans_NC ._PONCT
+Le_DET président_NC Jacques_NPP Chirac_NPP a_V rendu_VPP hommage_NC à_P l'_DET interprète_NC de_P La_DET Soupe_U au_P+D choux_NC ,_PONCT Papy_NPP fait_V de_P la_DET Résistance_NC et_CC le_DET Diner_NPP de_P cons_NC en_P saluant_VPR un_DET homme_NC de_P grande_ADJ générosité_NC ,_PONCT un_DET merveilleux_NC comédien_ADJ qui_PROREL restera_V comme_P l'_DET un_PRO des_P+D grands_ADJ serviteurs_NC de_P son_DET art._NC
+Il_CLS était_V l'_DET une_PRO des_P+D figures_NC familières_ADJ de_P la_DET scène_NC et_CC du_P+D cinéma_NC français_ADJ ,_PONCT ralliant_VPR toutes_ADJ les_DET générations_NC autour_ADV de_P personnages_NC attachants_ADJ et_CC émouvants_ADJ ._PONCT
+Par_P sa_DET sincérité_NC ,_PONCT sa_DET simplicité_NC ,_PONCT il_CLS savait_V toucher_VINF nos_DET cœurs_NC ,_PONCT dans_P les_DET rires_NC comme_P dans_P les_DET larmes_NC ._PONCT
+C'_CLS était_V un_DET comédien_NC d'_P un_DET incroyable_ADJ talent_NC ._PONCT
+Les_DET posters_NC furent_V installés_VPP juste_ADV avant_P le_DET vote_NC ._PONCT
+Des_DET barrières_NC empêchent_V l'_DET accés_NC pour_P les_DET voitures_NC ;_PONCT les_DET visiteurs_NC sont_V filtrés_VPP à_P l'_DET entrée_NC ._PONCT
+Un_DET bus_NC de_P CRS_NC attend_V devant_P le_DET lieu_NC de_P vote_NC ._PONCT
+Quatorze_DET pays_NC en_P dehors_ADV de_P l'_DET Irak_NPP ont_V été_VPP séléctionnés_VPP comme_P lieu_NC de_P vote_NC pour_P les_DET élections_NC iraqiennes_ADJ ._PONCT
+Au_P+D total_NC ,_PONCT près_P de_P 280_DET 000_ADJ électeurs_NC sont_V inscrits_VPP hors_P de_P leur_DET pays_NC ._PONCT
+Paris_NPP ,_PONCT capitale_NC de_P la_DET France_NPP ,_PONCT accueille_V les_DET votants_NC de_P France_NPP ,_PONCT de_P Belgique_NPP et_CC de_P Suisse_NPP ._PONCT
+Alors_ADV que_CS cet_DET événement_NC n'_ADV avait_V pas_ADV été_VPP gardé_VPP secret_ADJ ,_PONCT le_DET gouvernement_NC et_CC les_DET médias_NC français_ADJ sont_V restés_VPP assez_ADV discrets_ADJ sur_P la_DET question_NC ._PONCT
+Le_DET bureau_NC de_P vote_NC a_V été_VPP installé_VPP dans_P une_DET école_NC primaire_ADJ inutilisée_VPP dans_P un_DET voisinage_NC résidentiel_ADJ calme_ADJ du_P+D XIIIe_ADJ arrondissement_NC ._PONCT
+La_DET plupart_NC des_P+D habitants_NC n'_ADV étaient_V même_ADV pas_ADV au_P+D courant_NC de_P sa_DET présence_NC ,_PONCT avant_P qu'_CS ils_CLS ne_ADV remarquent_V le_DET déploiement_NC inhabituel_ADJ des_P+D forces_NC de_P police_NC et_CC les_DET posters_NC écrits_NC en_P français_NC et_CC en_P arabe_NC ._PONCT
+Malgré_P la_DET discrétion_NC ,_PONCT la_DET vue_U de_P policiers_NC en_P train_NC de_P garder_VINF un_DET bureau_NC de_P vote_NC est_V étonnante_ADJ dans_P un_DET pays_NC où_PROREL les_DET élections_NC sont_V organisées_VPP calmement_ADV le_DET dimanche_NC et_CC où_PROREL les_DET bureaux_NC de_P vote_NC ,_PONCT la_DET plupart_NC installés_VPP dans_P des_DET écoles_NC ,_PONCT ne_ADV sont_V reconnaissables_ADJ que_CS par_P les_DET panneaux_U officiels_ADJ portant_VPR les_DET affiches_NC des_P+D différents_ADJ candidants_NC ._PONCT
+

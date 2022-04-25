@@ -1,0 +1,30 @@
+S -> X1
+S -> X2
+S -> X3
+S -> X4
+S -> X5
+S -> X6
+S -> X7
+S -> X8
+S -> X9
+S -> X10
+S -> X11
+S -> X12
+S -> X13
+S -> X14
+S -> X15
+X1 -> "I" "DET" 
+X2 -> "DET" "NC" 
+X3 -> "NC" "CLS" 
+X4 -> "CLS" "V" 
+X5 -> "V" "ADJ" 
+X6 -> X1 "NC" 
+X7 -> X2 "CLS" 
+X8 -> X3 "V" 
+X9 -> X4 "ADJ" 
+X10 -> X6 "CLS" 
+X11 -> X7 "V" 
+X12 -> X8 "ADJ" 
+X13 -> X10 "V" 
+X14 -> X11 "ADJ" 
+X15 -> X13 "ADJ" 
